@@ -1,0 +1,176 @@
+body {background:#6e6666;}
+
+
+
+.ladoizquierdo
+{
+    width:400px;
+    height:930px;
+    background: #5055b5;
+    position:relative;
+    top:-950px;
+    bottom:0;
+    right:0;
+    left:60px;
+   
+}
+.parrafo6
+{
+    color: #000000;
+    position:absolute;
+    top:230px;
+    bottom:100px;
+    right:100px;
+    left:200px;
+    font-weight:bold;
+    
+}
+.parrafo7
+{
+    color: #000000;
+    position:absolute;
+    top:310px;
+    bottom:100px;
+    right:100px;
+    left:100px;
+    line-height:15px;
+}
+.parrafo8
+{
+    color: #000000;
+    position:absolute;
+    top:520px;
+    bottom:100px;
+    right:100px;
+    left:100px;
+}
+.parrafo9
+{
+    color: #000000;
+    position:absolute;
+    top:680px;
+    bottom:100px;
+    right:100px;
+    left:100px;
+}
+.imagen
+{
+    position:absolute;
+    top:20px;
+    bottom:100px;
+    right:100px;
+    left:170px;
+    border-radius: 50%;
+}
+
+
+.ladoderecho
+{
+    width:550px;
+    height:700px;
+    background: #ededef;
+    position:relative;
+    top:-20px;
+    bottom:0;
+    right:0;
+    left:460px;
+   
+}
+.parrafo2
+{
+    color: #000000;
+    position:absolute;
+    top:-35px;
+    bottom:100px;
+    right:100px;
+    left:50px;
+}
+.parrafo3
+{
+    color: #000000;
+    position:absolute;
+    top:220px;
+    bottom:100px;
+    right:100px;
+    left:50px;
+}
+.parrafo4
+{
+    color: #000000;
+    position:absolute;
+    top:310px;
+    bottom:100px;
+    right:100px;
+    left:50px;
+}
+.parrafo5
+{
+    color: #000000;
+    position:absolute;
+    top:470px;
+    bottom:100px;
+    right:100px;
+    left:50px;
+    line-height:10px;
+
+
+}
+.proyectos
+{
+    color: #000000;
+    position:absolute;
+    top:600px;
+    bottom:100px;
+    right:100px;
+    left:50px;
+    line-height:10px;
+
+}
+ 
+
+h1
+{
+    font-size: 54px;
+    text-align: center;
+    margin-bottom: 0px;
+    color: #333;
+}
+
+.partesuperior
+{
+    width:1000px;
+    height:200px;
+    background: #d5b091;
+    position:relative;
+    top:100;
+    bottom:400;
+    right:400;
+    left:10px;
+}
+
+.parrafo1
+{
+    position:absolute;
+    top:-20px;
+    bottom:400;
+    right:400;
+    left:530px;
+    text-align:center;
+}
+/*h2
+{
+    font-size: 34px;
+}
+
+
+
+h3
+{
+    font-size: 24px;
+}*/
+
+body {
+    font-family: 'Arial';
+   
+    
+  }
